@@ -1,4 +1,4 @@
-# HelloWorld.NetCore
+# Winter Spark HelloWorld
 Orleans HelloWorld sample targeting .NET Core
 
 ## Build and run the sample in Windows
